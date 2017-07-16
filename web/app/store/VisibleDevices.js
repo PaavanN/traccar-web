@@ -16,7 +16,7 @@
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-Ext.define('Traccar.store.VisibleDevices', {
+Ext.define('Traccar.store.geofenceIds', {
     extend: 'Ext.data.ChainedStore',
     source: 'Devices'
 });
